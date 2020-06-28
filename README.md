@@ -27,7 +27,7 @@ Remember While Script is running it will override all other platforms while runn
 
 - Create a Text File called LEDs.bat
 - Populate this text file with
-'python /path/to/WirelessFullRoomLEDsbyD.py'
+'python "/path/to/WirelessFullRoomLEDsbyD.py"'
 - Double click to run
 
 #### To run on start up:
