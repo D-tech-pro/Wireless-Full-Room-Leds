@@ -35,7 +35,7 @@ Then save the file, run and test.
 
 - Create a Text File called LEDs.bat
 - Populate this text file with
-'python "/path/to/WirelessFullRoomLEDsbyD.py"'
+`python "/path/to/WirelessFullRoomLEDsbyD.py"`
 - Double click to run
 
 #### To run on start up:
