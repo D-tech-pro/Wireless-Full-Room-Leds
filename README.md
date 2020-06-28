@@ -23,6 +23,14 @@ Python Dependencies
 
 Remember While Script is running it will override all other platforms while running. 
 
+## Script Modifications
+
+To make this work with your Wi-Fi Lights, there is one change to the script you have to make, You have to change the IP_Address Variable to your string lights.
+
+`IP_Address = '192.168.1.191'`
+
+Then save the file, run and test. 
+
 #### Bonus Shortcut Tutorial
 
 - Create a Text File called LEDs.bat
