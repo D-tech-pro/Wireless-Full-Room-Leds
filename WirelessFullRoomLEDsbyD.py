@@ -6,6 +6,12 @@ import datetime
 import time
 import numpy as n
 
+###############################################################################
+############### Please Enter Your Wi-Fi Module's IP Address ###################
+###############################################################################
+
+IP_Address = '192.168.1.191'
+
 class MagicHomeApi:
     """Representation of a MagicHome device."""
 
@@ -123,7 +129,7 @@ while(True):
         send.append(colors[i] * weights[i])
         send[i] = int(min(send[i],255))
 
-    controller1 = MagicHomeApi('192.168.1.191', 0)
+    controller1 = MagicHomeApi(IP_Address, 0)
 
 
     cR = int(send[0])
