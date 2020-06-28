@@ -24,4 +24,4 @@ Python Dependencies
 
 Credits:
 - [@adamkempenich/magichome-python script](https://github.com/adamkempenich/magichome-python) for interfacing with the wi-fi module
-- [alsa9709's Responsive LED Project](https://www.instructables.com/id/Responsive-LED-Backlight-With-Arduino-and-Python/)
+- [alsa9709's Responsive LED Project](https://www.instructables.com/id/Responsive-LED-Backlight-With-Arduino-and-Python/) for caputing the screen down to a color
