@@ -21,6 +21,19 @@ Python Dependencies
 - Install Pillow:
 `python -m pip install pillow`
 
+Remember While Script is running it will override all other platforms while running. 
+
+#### Bonus Shortcut Tutorial
+
+- Create a Text File called LEDs.bat
+- Populate this text file with
+'python /path/to/WirelessFullRoomLEDsbyD.py'
+- Double click to run
+
+#### To run on start up:
+- Find your "LEDs.bat"
+- Drop this file into `C:\Users\{Username}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+- Reboot
 
 Credits:
 - [@adamkempenich/magichome-python script](https://github.com/adamkempenich/magichome-python) for interfacing with the wi-fi module
