@@ -33,6 +33,9 @@ Mac:
 
 Remember While Script is running it will override all other platforms while running. 
 
+Test Video for colors (not mine
+): [Link](https://www.youtube.com/watch?v=PMtNRXu3z54)
+
 ## Script Modifications
 
 To make this work with your Wi-Fi Lights, there is one change to the script you have to make, You have to change the IP_Address Variable to your string lights.
@@ -45,7 +48,10 @@ Then save the file, run and test.
 
 - Create a Text File called LEDs.bat
 - Populate this text file with
-`python "/path/to/WirelessFullRoomLEDsbyD.py"`
+
+PC: `python "/path/to/WirelessFullRoomLEDsbyD.py"`
+
+Mac: `python3 "/path/to/WirelessFullRoomLEDsbyD.py"`
 - Double click to run
 
 #### To run on start up:
