@@ -13,13 +13,23 @@ Although I have listed the links I have used out for you, this does not mean tah
 Prerequisites:
 - Python version: [3.8.3](https://www.python.org/ftp/python/3.8.3/python-3.8.3.exe)
 
-Python Dependencies
+## Python Dependencies
+
+PC:
 
 - Install Numpy: 
 `python -m pip install numpy`
 
 - Install Pillow:
 `python -m pip install pillow`
+
+Mac:
+
+- Install Numpy: 
+`python3 -m pip install numpy`
+
+- Install Pillow:
+`python3 -m pip install pillow`
 
 Remember While Script is running it will override all other platforms while running. 
 
